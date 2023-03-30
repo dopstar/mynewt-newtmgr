@@ -26,8 +26,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	. "mynewt.apache.org/newtmgr/nmxact/bledefs"
-	"mynewt.apache.org/newtmgr/nmxact/nmxutil"
+	. "dopstar/mynewt-newtmgr/nmxact/bledefs"
+	"dopstar/mynewt-newtmgr/nmxact/nmxutil"
 )
 
 // Blocking

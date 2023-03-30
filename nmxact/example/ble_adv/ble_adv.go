@@ -28,10 +28,10 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/nmxact/nmble"
-	"mynewt.apache.org/newtmgr/nmxact/nmxutil"
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
-	"mynewt.apache.org/newtmgr/nmxact/xport"
+	"dopstar/mynewt-newtmgr/nmxact/nmble"
+	"dopstar/mynewt-newtmgr/nmxact/nmxutil"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/nmxact/xport"
 )
 
 func configExitHandler(x xport.Xport, s sesn.Sesn) {

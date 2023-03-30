@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"time"
 
-	"mynewt.apache.org/newtmgr/nmxact/nmxutil"
+	"dopstar/mynewt-newtmgr/nmxact/nmxutil"
 )
 
 type ListenerKey struct {

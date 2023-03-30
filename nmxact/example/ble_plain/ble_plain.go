@@ -24,10 +24,10 @@ import (
 	"os"
 	"time"
 
-	"mynewt.apache.org/newtmgr/nmxact/bledefs"
-	"mynewt.apache.org/newtmgr/nmxact/nmble"
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
-	"mynewt.apache.org/newtmgr/nmxact/xact"
+	"dopstar/mynewt-newtmgr/nmxact/bledefs"
+	"dopstar/mynewt-newtmgr/nmxact/nmble"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/nmxact/xact"
 )
 
 func main() {

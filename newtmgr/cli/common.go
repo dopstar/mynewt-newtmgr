@@ -25,16 +25,16 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/newtmgr/bll"
-	"mynewt.apache.org/newtmgr/newtmgr/config"
-	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
-	"mynewt.apache.org/newtmgr/nmxact/mtech_lora"
-	"mynewt.apache.org/newtmgr/nmxact/nmble"
-	"mynewt.apache.org/newtmgr/nmxact/nmcoap"
-	"mynewt.apache.org/newtmgr/nmxact/nmserial"
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
-	"mynewt.apache.org/newtmgr/nmxact/udp"
-	"mynewt.apache.org/newtmgr/nmxact/xport"
+	"dopstar/mynewt-newtmgr/newtmgr/bll"
+	"dopstar/mynewt-newtmgr/newtmgr/config"
+	"dopstar/mynewt-newtmgr/newtmgr/nmutil"
+	"dopstar/mynewt-newtmgr/nmxact/mtech_lora"
+	"dopstar/mynewt-newtmgr/nmxact/nmble"
+	"dopstar/mynewt-newtmgr/nmxact/nmcoap"
+	"dopstar/mynewt-newtmgr/nmxact/nmserial"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/nmxact/udp"
+	"dopstar/mynewt-newtmgr/nmxact/xport"
 )
 
 var globalSesn sesn.Sesn

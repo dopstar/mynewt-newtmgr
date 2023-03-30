@@ -24,10 +24,10 @@ import (
 	"strings"
 
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
-	"mynewt.apache.org/newtmgr/nmxact/lora"
-	"mynewt.apache.org/newtmgr/nmxact/mtech_lora"
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/newtmgr/nmutil"
+	"dopstar/mynewt-newtmgr/nmxact/lora"
+	"dopstar/mynewt-newtmgr/nmxact/mtech_lora"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
 )
 
 func NewMtechLoraConfig() *mtech_lora.LoraConfig {

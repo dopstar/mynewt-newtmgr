@@ -22,7 +22,7 @@ package nmble
 import (
 	"fmt"
 
-	. "mynewt.apache.org/newtmgr/nmxact/bledefs"
+	. "dopstar/mynewt-newtmgr/nmxact/bledefs"
 )
 
 type chrMgrElem struct {

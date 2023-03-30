@@ -30,10 +30,10 @@ import (
 	pb "gopkg.in/cheggaaa/pb.v1"
 
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/newtmgr/core"
-	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
-	"mynewt.apache.org/newtmgr/nmxact/nmp"
-	"mynewt.apache.org/newtmgr/nmxact/xact"
+	"dopstar/mynewt-newtmgr/newtmgr/core"
+	"dopstar/mynewt-newtmgr/newtmgr/nmutil"
+	"dopstar/mynewt-newtmgr/nmxact/nmp"
+	"dopstar/mynewt-newtmgr/nmxact/xact"
 )
 
 var (

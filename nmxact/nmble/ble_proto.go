@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "mynewt.apache.org/newtmgr/nmxact/bledefs"
+	. "dopstar/mynewt-newtmgr/nmxact/bledefs"
 )
 
 type MsgOp int

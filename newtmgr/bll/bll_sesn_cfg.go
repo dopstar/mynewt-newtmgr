@@ -26,8 +26,8 @@ import (
 
 	"github.com/JuulLabs-OSS/ble"
 
-	"mynewt.apache.org/newtmgr/nmxact/nmcoap"
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/nmxact/nmcoap"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
 )
 
 type BllSesnCfg struct {

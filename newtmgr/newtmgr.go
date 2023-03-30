@@ -26,10 +26,10 @@ import (
 	"syscall"
 
 	"mynewt.apache.org/newt/util"
-	"mynewt.apache.org/newtmgr/newtmgr/cli"
-	"mynewt.apache.org/newtmgr/newtmgr/config"
-	"mynewt.apache.org/newtmgr/newtmgr/nmutil"
-	"mynewt.apache.org/newtmgr/nmxact/nmserial"
+	"dopstar/mynewt-newtmgr/newtmgr/cli"
+	"dopstar/mynewt-newtmgr/newtmgr/config"
+	"dopstar/mynewt-newtmgr/newtmgr/nmutil"
+	"dopstar/mynewt-newtmgr/nmxact/nmserial"
 )
 
 func isSerial() bool {

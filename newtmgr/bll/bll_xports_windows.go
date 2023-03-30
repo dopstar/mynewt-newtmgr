@@ -24,8 +24,8 @@ package bll
 import (
 	"fmt"
 
-	"mynewt.apache.org/newtmgr/nmxact/sesn"
-	"mynewt.apache.org/newtmgr/nmxact/bledefs"
+	"dopstar/mynewt-newtmgr/nmxact/sesn"
+	"dopstar/mynewt-newtmgr/nmxact/bledefs"
 )
 
 type XportCfg struct {

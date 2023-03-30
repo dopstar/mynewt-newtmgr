@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"sync"
 
-	"mynewt.apache.org/newtmgr/nmxact/nmxutil"
+	"dopstar/mynewt-newtmgr/nmxact/nmxutil"
 
 	log "github.com/sirupsen/logrus"
 )

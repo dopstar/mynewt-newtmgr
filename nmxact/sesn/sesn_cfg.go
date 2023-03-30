@@ -22,9 +22,9 @@ package sesn
 import (
 	"time"
 
-	"mynewt.apache.org/newtmgr/nmxact/bledefs"
-	"mynewt.apache.org/newtmgr/nmxact/lora"
-	"mynewt.apache.org/newtmgr/nmxact/nmcoap"
+	"dopstar/mynewt-newtmgr/nmxact/bledefs"
+	"dopstar/mynewt-newtmgr/nmxact/lora"
+	"dopstar/mynewt-newtmgr/nmxact/nmcoap"
 )
 
 type MgmtProto int
