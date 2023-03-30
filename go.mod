@@ -24,5 +24,4 @@ require (
 	github.com/ugorji/go/codec v1.2.10
 	golang.org/x/net v0.8.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
-	mynewt.apache.org/newt v0.0.0-20230307214303-0b46ad464e7a
 )
